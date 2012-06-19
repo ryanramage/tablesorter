@@ -2,6 +2,7 @@
     "name": "tablesorter",
     "version": "2.3.8",
     "title": "tablesorter",
+    "main": "js/tablesorter.js",
     "author": {
         "name": "Christian Bach",
         "url": "http://tablesorter.com/"
@@ -30,13 +31,12 @@
     "homepage": "http://mottie.github.com/tablesorter/docs/index.html",
     "maintainers": [
         {
+            "name": "Ryan Ramage",
+            "url": "https://github.com/ryanramage"
+        },
+        {
             "name": "Rob Garrison",
             "url": "https://github.com/Mottie"
         }
-    ],
-    "files": [
-        "css/blue/blue.zip",
-        "js/",
-        "/addons/pager/"
     ]
 }
